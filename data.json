@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "imageUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+        "age": 30,
+        "work": "Web Developer",
+        "email": "info@johndoe.com",
+        "phone": "123-456-7890",
+        "address": "123 Main St, City, State 12345"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "imageUrl": "https://randomuser.me/api/portraits/men/79.jpg",
+        "age": 28,
+        "work": "Graphic Designer",
+        "email": "contact@janesmith.com",
+        "phone": "234-567-8901",
+        "address": "456 Elm St, Town, State 23456"
+    },
+    {
+        "id": 3,
+        "name": "Alex Johnson",
+        "imageUrl": "https://randomuser.me/api/portraits/men/46.jpg",
+        "age": 35,
+        "work": "Data Analyst",
+        "email": "alex.johnson@email.com",
+        "phone": "345-678-9012",
+        "address": "789 Oak St, Village, State 34567"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "imageUrl": "https://randomuser.me/api/portraits/women/94.jpg",
+        "age": 32,
+        "work": "Product Manager",
+        "email": "emily.davis@company.com",
+        "phone": "456-789-0123",
+        "address": "101 Pine St, City, State 45678"
+    },
+    {
+        "id": 5,
+        "name": "Michael Brown",
+        "imageUrl": "https://randomuser.me/api/portraits/men/37.jpg",
+        "age": 40,
+        "work": "Marketing Director",
+        "email": "mike.brown@business.com",
+        "phone": "567-890-1234",
+        "address": "202 Maple St, Town, State 56789"
+    },
+    {
+        "id": 6,
+        "name": "Olivia Wilson",
+        "imageUrl": "https://randomuser.me/api/portraits/women/72.jpg",
+        "age": 29,
+        "work": "UX/UI Designer",
+        "email": "olivia.wilson@designs.com",
+        "phone": "678-901-2345",
+        "address": "303 Birch St, Village, State 67890"
+    },
+    {
+        "id": 7,
+        "name": "William Taylor",
+        "imageUrl": "https://randomuser.me/api/portraits/men/60.jpg",
+        "age": 33,
+        "work": "Software Engineer",
+        "email": "william.taylor@tech.com",
+        "phone": "789-012-3456",
+        "address": "404 Cedar St, City, State 78901"
+    },
+    {
+        "id": 8,
+        "name": "Sophia Martinez",
+        "imageUrl": "https://randomuser.me/api/portraits/women/46.jpg",
+        "age": 26,
+        "work": "Content Writer",
+        "email": "sophia.martinez@writing.com",
+        "phone": "890-123-4567",
+        "address": "505 Cherry St, Town, State 89012"
+    },
+    {
+        "id": 9,
+        "name": "James Miller",
+        "imageUrl": "https://randomuser.me/api/portraits/men/33.jpg",
+        "age": 38,
+        "work": "Business Analyst",
+        "email": "james.miller@consulting.com",
+        "phone": "901-234-5678",
+        "address": "606 Walnut St, Village, State 90123"
+    },
+    {
+        "id": 10,
+        "name": "Isabella Anderson",
+        "imageUrl": "https://randomuser.me/api/portraits/women/17.jpg",
+        "age": 31,
+        "work": "HR Manager",
+        "email": "isabella.anderson@hr.com",
+        "phone": "012-345-6789",
+        "address": "707 Pineapple St, City, State 01234"
+    },
+    {
+        "id": 11,
+        "name": "David Thomas",
+        "imageUrl": "https://randomuser.me/api/portraits/men/76.jpg",
+        "age": 27,
+        "work": "Sales Executive",
+        "email": "info@tdavid.com",
+        "phone": "123-456-7890",
+        "address": "808 Banana St, Town, State 12345"
+    },
+    {
+        "id": 12,
+        "name": "Mia Jackson",
+        "imageUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+        "age": 34,
+        "work": "Project Manager",
+        "email": "info@miajack.com",
+        "phone": "234-567-8901",
+        "address": "909 Apple St, Village, State 23456"
+    },
+    {
+        "id": 13,
+        "name": "Ceily Brown",
+        "imageUrl": "https://randomuser.me/api/portraits/women/13.jpg",
+        "age": 28,
+        "work": "Hiring Manager",
+        "email": "info@ceilyb.com",
+        "phone": "364-898796-81",
+        "address": "123 Main St, City, State 12345"
+    }
+]
