@@ -2,11 +2,8 @@
     async () => {
 
         try {
-            const res = await fetch('./data.json');
+            const res = await fetch('./assets/data.json');
             const data = await res.json();
-
-            console.log(data);
-
 
             function displayEmployee(index) {
                 document.querySelector(".employee-name").textContent = data[index].name;
@@ -74,8 +71,10 @@ submitData.addEventListener('click', () => {
 
     (
         async () => {
+
             try {
-                const res = await fetch('./data.json');
+
+                const res = await fetch('./assets/data.json');
                 const data = await res.json();
                 const lastId = data.length;
 
@@ -89,8 +88,6 @@ submitData.addEventListener('click', () => {
                     "phone": userPhone,
                     "address": userAddress
                 }
-
-                data.push(jsonData);
 
 
             } catch (error) {
